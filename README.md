@@ -1,10 +1,16 @@
 # Greetings!
 
 ## On Github I am:
+- subject 1
+- subject 2
 
 ## I enjoy:
+- subject 1
+- subject 2
 
 ## Professional:
+- subject 1
+- subject 2
 
 
 <!--
