@@ -1,4 +1,4 @@
-![cat gif](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+![me](https://github.com/jtsteeg/jtsteeg/blob/main/github%20profile2.jpg)
 # Greetings!
 
 ## On Github I am:
@@ -17,6 +17,8 @@
 
 ## Let's connect!
 [My LinkedIn Profile](https://www.linkedin.com/in/jacob-steeg/)
+---
+![cat gif](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 <!--
 **jtsteeg/jtsteeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
