@@ -3,17 +3,17 @@
 
 ## On Github I am:
 - Participating in the *Microsoft Leap Internal Program*.
-- Engaging with personal and open-source projects that empower people to acheive more.
+- Engaging with personal and open-source projects that empower people to achieve more.
 
 ## I enjoy:
-- Automation, Augmented reality, FOSS development
-- Hiking, music production, all sorts of tea
+- Automation, augmented reality, FOSS.
+- Hiking, music production, all sorts of tea.
 
 ## Professional:
-- HTML, Python, OOP
-- VScode, MS Power Automate, version control
-- Current role: **GDCO Datacenter Technician**
-    - Supports Microsoft CO+I infrastructure through OSI layers 1-4
+- HTML, Python, OOP.
+- VScode, MS Power Automate, version control.
+- Current role: **GDCO Datacenter Technician:**
+    - Supports Microsoft CO+I infrastructure through OSI layers 1-4.
 
 ## Let's connect!
 [My LinkedIn Profile](https://www.linkedin.com/in/jacob-steeg/)
