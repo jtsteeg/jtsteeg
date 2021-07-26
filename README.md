@@ -14,6 +14,9 @@
 - Current role: **GDCO Datacenter Technician**
     - Supports Microsoft CO+I infrastructure through OSI layers 1-4
 
+## Let's connect!
+[My LinkedIn Profile](https://www.linkedin.com/in/jacob-steeg/)
+
 <!--
 **jtsteeg/jtsteeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
