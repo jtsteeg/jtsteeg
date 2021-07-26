@@ -1,4 +1,11 @@
-### Hi there 👋
+# Greetings!
+
+## On Github I am:
+
+## I enjoy:
+
+## Professional:
+
 
 <!--
 **jtsteeg/jtsteeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
