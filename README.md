@@ -11,7 +11,8 @@
 ## Professional:
 - HTML, Python, OOP
 - VScode, MS Power Automate, version control
-
+- Current role: **GDCO Datacenter Technician**
+    - Supports Microsoft CO+I infrastructure through OSI layers 1-4
 
 <!--
 **jtsteeg/jtsteeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
