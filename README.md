@@ -1,16 +1,16 @@
 # Greetings!
 
 ## On Github I am:
-- subject 1
-- subject 2
+- Participating in the *Microsoft Leap Internal Program*.
+- Engaging with personal and open-source projects that empower people to acheive more.
 
 ## I enjoy:
-- subject 1
-- subject 2
+- Automation, Augmented reality, FOSS development
+- Hiking, music production, all sorts of tea
 
 ## Professional:
-- subject 1
-- subject 2
+- HTML, Python, OOP
+- VScode, MS Power Automate, version control
 
 
 <!--
