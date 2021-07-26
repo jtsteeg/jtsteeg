@@ -1,4 +1,4 @@
-![cat gif](https://media1.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=790b7611de1192f12c551d0ac630249b1f4fa6b9340b966e&rid=giphy.gif)
+![cat gif](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 # Greetings!
 
 ## On Github I am:
