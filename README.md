@@ -18,7 +18,7 @@
 ## Let's connect!
 [My LinkedIn Profile](https://www.linkedin.com/in/jacob-steeg/)
 ---
-![cat gif](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+
 
 <!--
 **jtsteeg/jtsteeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
